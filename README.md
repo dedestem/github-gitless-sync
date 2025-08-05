@@ -1,3 +1,9 @@
+# Fixes https://github.com/silvanocerza/github-gitless-sync/issues/21
+
+This fixes the .sha undefined error.
+The original creator still hasn't merged the fix. That [@kj-9](https://github.com/kj-9) made.
+
+
 # GitHub Gitless Sync
 
 Plugin to sync a GitHub repository with an Obsidian vault.
